@@ -1,0 +1,1 @@
+<?php//include("Auth.php");$_SESSION['user_id'] = 1;include_once("Model/User.php");$user = new User();$res = $user->update_password_by_userId($_SESSION['user_id']);header("Location: userProfile.php");	exit();?>
