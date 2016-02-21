@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This code is written by Mustafa Shbere
+ * This code is written by Hafiz Irshaid
  * An-Najah National University 
  * Computer Engineering Department
  * Date :  Oct 2, 2013
